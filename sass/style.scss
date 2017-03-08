@@ -426,6 +426,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 .logo-small {
     font-size: 4em!important;
+    font-family: 'midnight';
+    font-weight: lighter!important;
+    line-height: normal!important;
 }
 
 
@@ -811,7 +814,7 @@ h1, h2, h3, h4, h5, h6 {
 		font-size: 22px;
 		color: $brand-white;
 		position: relative;
-		padding-bottom: 20px;
+		// padding-bottom: 20px;
 	}
 
 	.copy-right{

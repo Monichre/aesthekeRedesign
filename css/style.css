@@ -266,7 +266,10 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: lighter !important; }
 
 .logo-small {
-  font-size: 4em !important; }
+  font-size: 4em !important;
+  font-family: 'midnight';
+  font-weight: lighter !important;
+  line-height: normal !important; }
 
 #fh5co-services,
 #fh5co-explore,
@@ -569,8 +572,7 @@ h1, h2, h3, h4, h5, h6 {
   #fh5co-footer .section-title {
     font-size: 22px;
     color: #fff;
-    position: relative;
-    padding-bottom: 20px; }
+    position: relative; }
   #fh5co-footer .copy-right {
     position: relative;
     padding-top: 20px;
